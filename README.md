@@ -7,7 +7,7 @@ An open source privacy guide specifically for the Pirate Chain project and its u
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
- 
+ <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -21,13 +21,13 @@ An open source privacy guide specifically for the Pirate Chain project and its u
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <a href="#usage">Usage</a>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
- 
+ </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->

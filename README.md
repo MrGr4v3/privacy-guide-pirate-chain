@@ -1,7 +1,6 @@
-# pirate-chain-privacy-guide
+# Privacy Guide Pirate Chain
 
 An open source privacy guide specifically for the Pirate Chain project and its users.
-
 
 <!-- TABLE OF CONTENTS -->
 <details>

@@ -1,5 +1,7 @@
 # Privacy Guide Pirate Chain
 
+<img src="https://github.com/Seko1900/privacy-guide-pirate-chain/blob/main/images/pg-banner.png" alt="Pirate Chain Privacy Guide" title="Pirate Chain Privacy Guide">
+
 An open source privacy guide specifically for the Pirate Chain project and its users.
 
 <!-- TABLE OF CONTENTS -->

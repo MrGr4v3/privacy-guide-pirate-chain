@@ -8,19 +8,30 @@ An open source privacy guide specifically for the Pirate Chain project and its u
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
+      <a href="#about-the-privacy-guide">About The Privacy Guide</a>
+    <li>  
+      <a href="#why-pirate-chain?">Why Pirate Chain?</a>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#privacy-vs-anonymity-vs-security">Privacy VS Anonymity VS Security</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#what-is-privacy?">What is Privacy?</a></li>
+        <li><a href="#what-is-anonymity?">What is Anonymity?</a></li>
+        <li><a href="#what-is-security?">What is Security?</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li>
+      <a href="#wallets">Wallets</a>
+      <ul>
+        <li><a href="#lite-wallet?">Lite Wallet</a></li>
+        <li><a href="#full-node-wallet">Full Node Wallet?</a></li>
+        <li><a href="#paper-wallet">Paper Wallet</a></li>
+        <li><a href="#mobile-wallet">Mobile Wallet</a></li>
+        <li><a href="#hardware-wallet">Hardware Wallet</a></li>
+      </ul>
+    </li>
+    <li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -29,64 +40,59 @@ An open source privacy guide specifically for the Pirate Chain project and its u
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT THE PRIVACY GUIDE -->
+## About The Privacy Guide
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This guide aims to help the user understand how to use the Pirate Chain infastrucure to suit their privacy needs. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#privacy-guide-pirate-chain">back to top</a>)</p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+## Why Pirate Chain?
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Pirate Chain is a blockchain that uses zero knowledge proofs, by default, to prove and verify encrypted transactions.  This allows for Anonymous peer 2 peer transcations.  
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#privacy-guide-pirate-chain">back to top</a>)</p>
 
 
+<!-- Privacy VS Anonymity VS Security -->
+## Privacy VS Anonymity VS Security
+
+The use of the word Privacy sometimes gets misunderstood, in the context of this guide, privacy is the combination of Privacy, Anonymity and Security in whatever meets the needs of the user. 
+
+### What is Privacy?
+
+PRIVACY is the quality or state of being apart from company or observation 
+
+### What is Anonymity?
+
+ANONYMITY is the quality or state of being anonymous.
+
+### What is Security?
+
+SECURITY is the quality or state of being secure.
+
+<p align="right">(<a href=#privacy-guide-pirate-chain>back to top</a>)</p>
+
+<!-- Wallets -->
+## Wallets
+
+The term wallet is misguided, typically we think of a wallet as a place where we keep money.  Pirate Chain being a UTXO based blockchain, all ARRR is associated with an address which is are unspent transctions.  A wallet is the access point to the blockchain, it holds your addresses and keys that are necassry to interact with the blockchain.  
+
+Pirate Chain has different wallets that you can use to access the blockchain
+
+### Lite Wallet
+
+### Full Node Wallet
+
+### Paper Wallet
+
+### Mobile Wallet
+
+### Hardware Wallet
+
+<p align="right">(<a href=#privacy-guide-pirate-chain>back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -98,7 +104,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href=#privacy-guide-pirate-chain>back to top</a>)</p>
 
 
 
@@ -116,7 +122,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href=#privacy-guide-pirate-chain>back to top</a>)</p>
 
 
 <!-- LICENSE -->
@@ -124,7 +130,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href=#privacy-guide-pirate-chain>back to top</a>)</p>
 
 
 
@@ -141,4 +147,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href=#privacy-guide-pirate-chain>back to top</a>)</p>

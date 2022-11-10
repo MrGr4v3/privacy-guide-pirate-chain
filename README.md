@@ -33,10 +33,13 @@ An open source privacy guide specifically for the Pirate Chain project and its u
     <li>
       <a href="#aquiring-arrr">Aquiring ARRR </a>
       <ul>
+        <li><a href="#faucets">Faucets</a></li>
+        <li><a href="#giveaways">Giveaways</a></li>
         <li><a href="#centralized-exchanges">Centralized Exchanges</a></li>
         <li><a href="#decentralized-exchanges">Decentralized Exchanges</a></li>
         <li><a href="#over-the-counter">Over the Counter</a></li>
         <li><a href="#mining">Mining</a></li>
+        <li><a href="#piratelife-casino">Piratelife-Casino</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
@@ -110,7 +113,7 @@ Each address generated in your wallet will have a Viewing Key, this allows you t
 
 
 
-Pirate Chain has different wallets that you can use to access the blockchain.
+Pirate Chain has different wallets that you can use to access the blockchain.  Having a wallet is crucial in securing your ARRR.  You may have heard the term "Not your keys, not your coins", this means the unless you control the private keys of the address, you are not gaurenteed ownership.
 
 ### Lite Wallet
 
@@ -155,13 +158,37 @@ The Pirate Hardware Wallet is the only device that is capable of processing zkSN
 <!-- Aquiring ARRR -->
 ## Aquiring ARRR 
 
+Once you have an address and the private keys secured you are in a good position to store ARRR that you plan to or have aquired.  There are different ways to aquire ARRR.
+
+### Faucets
+
+A faucet is a tool where a small amount of a coin is given out, normally used to allow users to test out and learn more about the blockchain and associated tools.  You can interact with a faucet at [Pirate Chain Discord](https://pirate.black/discord)
+
+### Giveawys
+
+Social Media platform users, use giveaways to help promote the project at time.  You can join [Social Media Platform](https://pirate.black/follow-us-on-social-media/) and watch for giveaways and try to meet the criteria and win ARRR
+
 ### Centralized Exchanges
+
+The most common way of aquiring ARRR.  [Centralized Exchanges](https://pirate.black/exchanges/) that have trading pairs for ARRR, the typically trading pairs for ARRR are with BTC and USDT.  Some exchanges are on ramps for FIAT others only allow trading of crytpos.  Each exchange has their own rules and regualtion for the users, some afford more levels of anonymity than other.  CEX(Centralized Exchanges)  are not the most private, but one can avoid Excanges that use KYC(Know Your Customer) and AML(Anti Money Laundering).  
 
 ### Decentralized Exchanges
 
+Decentralized Exchanges(DEX) are more secure and typically safer and more anonymous due to being [non-custodial](https://www.coindesk.com/learn/custodial-wallets-vs-non-custodial-crypto-wallets/). DEX's allow you to trade directly from your own wallet(addresses), always holding the private keys to your coins.  Most DEX's utilize a [Liquidity Pools](https://www.coindesk.com/learn/what-are-liquidity-pools/) to allow for the transaction to be completed.  Typically DEX transactions are slower and more expensive, a trade off for more security and anonymity.
+
+[Atomicdex](https://atomicdex.io/en/) is a DEX that is built by [Komodo](https://komodoplatform.com/en/) which Pirate Chain is built on.  There is no Liquidity Pool involved in these swaps, they use special Timelock feature to either  allow for transaction to be made by two parties or return coins to owner due to a discrepancy in transactions.
+
 ### Over the Counter
 
+The most Private and anonymous, yet may not be the most secure, is and over the counter exchange.  These exchanges involve two or three people(Three if an [Escrow](https://www.investopedia.com/terms/e/escrow.asp) is used).  Two parties must agree on an amount and a cost to trade a coin.  The downfall of these transactions is that more trust is involved and can be less secure.  To make this more safe, an Escrow service can be used, still trust must exist.  [Pirate Chain Discord](https://pirate.black/discord) has a channel #OTC, dedicated to help parties find trading partners.
+
 ### Mining
+
+Mining is the process in which [Blocks](https://medium.datadriveninvestor.com/what-is-a-block-in-the-blockchain-c7a420270373) are mined, transactions are included in the blocks as well.  The reward for mining a block is a block reward, which is a predetermines amount.  Any fees that are associated with the transaction that have been included in these blocks also go to the finder of the blocks.  This process is done with special minig tools.  You can mine some ARRR with these tools.  [Pirate Chain](https://pirate.black/discord) has a channel #Mining, dedicated to mining questions.
+
+### PirateLife Casino
+
+If you have some ARRR and feel lucky you can try your luck at the [Piratelife Casino](https://piratelife.casino/) and try and win more ARRR
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 

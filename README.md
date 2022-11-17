@@ -8,9 +8,16 @@ An open source privacy guide specifically for the Pirate Chain project and its u
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-privacy-guide">About The Privacy Guide</a>
+      <a href="#about-the-user-guide">About The User Guide</a>
+      </ul>
+    </li>  
     <li>  
+      <a href="#what-is-pirate-chain?">What is Pirate Chain?</a><li>  
       <a href="#why-pirate-chain?">Why Pirate Chain?</a>
+      <ul>
+      <li><a href="#fungibility">Fungibility</a></li>
+        <li><a href="#scarcity">Scarcity</a></li>
+        <li><a href="#what-is-security?">What is Security?</a></li>
       </ul>
     </li>
     <li>
@@ -56,17 +63,25 @@ An open source privacy guide specifically for the Pirate Chain project and its u
 </details>
 
 <!-- ABOUT THE PRIVACY GUIDE -->
-## About The Privacy Guide
+## About The User Guide
 
 This guide aims to help the user understand how to use the Pirate Chain infastrucure to suit their privacy needs. 
 
 <p align="right">(<a href="#privacy-guide-pirate-chain">back to top</a>)</p>
 
 
+<!-- WHAT IS PIRATE CHAIN -->
+## What is Pirate Chain?
+
+Pirate Chain is a blockchain that uses [zero knowledge proofs](https://medium.com/@imolfar/why-and-how-zk-snark-works-1-introduction-the-medium-of-a-proof-d946e931160), by default, to prove and verify encrypted transactions.  This allows for Anonymous peer 2 peer transcations. 
 
 ## Why Pirate Chain?
 
-Pirate Chain is a blockchain that uses zero knowledge proofs, by default, to prove and verify encrypted transactions.  This allows for Anonymous peer 2 peer transcations.  
+### Fungibility
+
+Pirate Chains use of shielded transactions make to ARRR unique, it makes each ARRR fungible.  Fungibility is an important aspect of money that makes each unit indisstiguishable to each other.  1 ARRR = 1 ARRR
+
+### Scarcity
 
 <p align="right">(<a href="#privacy-guide-pirate-chain">back to top</a>)</p>
 
@@ -80,19 +95,19 @@ The use of the word Privacy sometimes gets misunderstood, in the context of this
 
 PRIVACY is the quality or state of being apart from company or observation.
 
-The contents of the diary are private when only you know.
+The contents of a diary are private when only you know.
 
 ### What is Anonymity?
 
 ANONYMITY is the quality or state of being anonymous.
 
-The contents of the diary can be known, but whom wrote the contents is not known.
+The contents of a diary can be known, but whom wrote the contents is not known.
 
 ### What is Security?
 
 SECURITY is the quality or state of being secure.
 
-The level of difficulty someone would need to overcome to access the contents of the diary.
+The level of difficulty someone would need to overcome to access the contents of a diary.
 
 <p align="right">(<a href=#privacy-guide-pirate-chain>back to top</a>)</p>
 

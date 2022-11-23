@@ -12,20 +12,22 @@ An open source privacy guide specifically for the Pirate Chain project and its u
       </ul>
     </li>  
     <li>  
-      <a href="#what-is-pirate-chain?">What is Pirate Chain?</a><li>  
-      <a href="#why-pirate-chain?">Why Pirate Chain?</a>
+      <a href="#what-is-pirate-chain">What is Pirate Chain?</a><li>  
+      <a href="#why-pirate-chain">Why Pirate Chain?</a>
       <ul>
       <li><a href="#fungibility">Fungibility</a></li>
         <li><a href="#scarcity">Scarcity</a></li>
-        <li><a href="#what-is-security?">What is Security?</a></li>
+        <li><a href="#durability">Durability</a></li>
+        <li><a href="#portability">Portability</a></li>
+        <li><a href="#recognizability">Recognizability?</a></li>
       </ul>
     </li>
     <li>
       <a href="#privacy-vs-anonymity-vs-security">Privacy VS Anonymity VS Security</a>
       <ul>
-        <li><a href="#what-is-privacy?">What is Privacy?</a></li>
-        <li><a href="#what-is-anonymity?">What is Anonymity?</a></li>
-        <li><a href="#what-is-security?">What is Security?</a></li>
+        <li><a href="#what-is-privacy">What is Privacy?</a></li>
+        <li><a href="#what-is-anonymity">What is Anonymity?</a></li>
+        <li><a href="#what-is-security">What is Security?</a></li>
       </ul>
     </li>
     <li>
@@ -73,15 +75,33 @@ This guide aims to help the user understand how to use the Pirate Chain infastru
 <!-- WHAT IS PIRATE CHAIN -->
 ## What is Pirate Chain?
 
+Pirate Chain is a digital privacy currency created in August 29th 2018. The goal was simple: to create a completely anonymous cryptocurrency that is secure, untraceable and keep the identity of those who transact with it anonymous. Developers of various cryptocurrencies came together to create Pirate Chain to show the world that it’s not only possible, but also necessary. It has been proven by government agencies and chain analysts that Bitcoin, as well as all of the other “privacy” cryptocurrencies, can be traced and data can be taken from them in order to find out who uses these currencies, how much they spend and who they transact with. Pirate Chain, on the other hand, has none of these issues, as it uses military grade encryption and delayed proof of work to make it the most secure and anonymous cryptocurrency in the world!
+
 Pirate Chain is a blockchain that uses [zero knowledge proofs](https://medium.com/@imolfar/why-and-how-zk-snark-works-1-introduction-the-medium-of-a-proof-d946e931160), by default, to prove and verify encrypted transactions.  This allows for Anonymous peer 2 peer transcations. 
 
 ## Why Pirate Chain?
 
+Financial privacy has been constantly chipped away over the years, to a point where someone always knows how much money you have, what you spend it on, where you shop and so much more it makes you shudder just thinking about it. Even if you try to transact only in cash, you need a bank account to store it (unless you feel safe carrying all of your money with you, which is most likely not the case). Your right to privacy with these institutions is completely gone and your data is sold to the highest bidder. 
+
 ### Fungibility
 
-Pirate Chains use of shielded transactions make to ARRR unique, it makes each ARRR fungible.  Fungibility is an important aspect of money that makes each unit indisstiguishable to each other.  1 ARRR = 1 ARRR
+Pirate Chains use of shielded transactions makes ARRR unique, it makes each ARRR fungible.  [Fungibility](https://www.investopedia.com/terms/f/fungibles.asp) is an important aspect of money that makes each unit indisstiguishable to each other, they are interchangable.  1 ARRR = 1 ARRR
 
 ### Scarcity
+
+Having an infinte supply of a commodity, will have a negative impact on the demand.  [Scarcity](https://www.investopedia.com/terms/s/scarcity.asp) is another important aspect that adds value to a commodity.  The supply of ARRR is capped at 200 Million, as of this article being written, over 97% of the supply has been mined, due to the accelerated emmsions schedual.
+
+### Durability
+
+Blockchains are nearly indestructable. All ARRR exists on the blockchain, copies of the blockchain are stored in Full Nodes
+
+### Portability
+
+Crypto is extremely portable, since the coins exist on the blockchain, access to it is as simple as 1) Having an internet connecion to allow you to install wallet software. 2) A device to install said software on. 3) Your spending keys.  With these 3 things you can access your coins.
+
+### Recognizability
+
+It took many years for Bitcoin to become know around the world.  The groundwork has been laid and only a matter of time before Pirate Chain is known for privacy as Bitcoin is know for being the first.
 
 <p align="right">(<a href="#privacy-guide-pirate-chain">back to top</a>)</p>
 
